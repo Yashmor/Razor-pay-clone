@@ -1,2 +1,0 @@
-# Razor-pay-clone
-# Razo
